@@ -1,6 +1,6 @@
 # Anthony-science
 
-/assets/images/data-scientist-word-banner-vector.jpeg
+</assets/images/data-scientist-word-banner-vector.jpeg>
 
 
 ## Welcome Page
