@@ -1,6 +1,7 @@
 # Anthony-science
 
-img src="./public/screenshot.gif" width="50%" height="auto" alt="Screenshot"
+/assets/images/data-scientist-word-banner-vector.jpeg
+
 
 ## Welcome Page
 ### This is an example of a *Readme file* to introduce myself and to point potential employers towards **examples of *projects* I have worked on.**
