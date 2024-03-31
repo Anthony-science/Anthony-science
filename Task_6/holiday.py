@@ -5,7 +5,7 @@ def hotel_cost (a, hotel_rate):
     return tot_hotel_cost
 
 
-# Defint plane_cost function
+# Define plane_cost function
 def plane_cost (c):
     if city_flight == "paris" or "Paris":
         c = fl_paris
