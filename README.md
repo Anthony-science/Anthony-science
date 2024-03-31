@@ -10,8 +10,11 @@
 There will be lots of examples of code on here. <sup> *Imagine links to each repo*</sup>
 
 > I might include quotes from each piece of code
+
 <br/><br/>
+
 I would definitely have [Links to my CoGrammar repository](https://github.com/Anthony-science/first_repo)
+
 <br/><br/>
 **I would *also* include:**
    
