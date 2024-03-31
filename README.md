@@ -6,23 +6,12 @@
 
 ## Welcome Page
 ### This is an example of a *Readme file* to introduce myself and to point potential employers towards **examples of *projects* I have worked on.**
-
-
+<br/><br/>
 There will be lots of examples of code on here. <sup> *Imagine links to each repo*</sup>
-
-
 
 > I might include quotes from each piece of code
 
-
-
-
 I would definitely have [Links to my CoGrammar repository](https://github.com/Anthony-science/first_repo)
-
-
-
-
-
 
 **I would *also* include:**
    
