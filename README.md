@@ -25,8 +25,9 @@ I would definitely have [Links to my CoGrammar repository](https://github.com/An
    - instructions to run (if applicable)
    - instructions to run test suite(s) (if any)
 
-[x] Make README file
-[x} Link to a repo
-[x] Suggest other content
-[ ] Add some links to contact details
-[ ] Add LinkedIn link
+<br/><br/> To Do list:
+- [x] Make README file
+- [x} Link to a repo
+- [x] Suggest other content
+- [ ] Add some links to contact details
+- [ ] Add LinkedIn link
