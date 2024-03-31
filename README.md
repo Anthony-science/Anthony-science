@@ -1,6 +1,6 @@
 # Anthony-science
 
-![A royalty-free banner](/assets/images/data-scientist-word-banner-vector.jpeg)
+![A royalty-free banner](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 
 
 
