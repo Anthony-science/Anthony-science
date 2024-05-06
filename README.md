@@ -7,16 +7,20 @@
 ## Welcome Page
 ### This page will continue to be updated as I put more projects on.**
 <br/><br/>
-There will be lots of examples of code on here. <sup> *Imagine links to each repo*</sup>
+Skills: <sup> *Specific to data science, see LinkedIn for more details*</sup>
 
-> I might include quotes from each piece of code
-
+   - Python
+   - Jupyter
+   - SQL
+   - Data visualisation
+   - Machine Learning
+   - Data analysis
 <br/><br/>
 
 Here is a link to some of the projects I have been working on [Links to my CoGrammar repository](https://github.com/Anthony-science/hyperiondev-all-proj)
 
 <br/><br/>
-**Details:**
+**Contact Details:**
    
    - email: <sciencemrjackson@gmail.com>
    - LinkedIn: <https://www.linkedin.com/in/anthony-jackson-364087ab>
