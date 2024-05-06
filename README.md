@@ -5,7 +5,7 @@
 
 
 ## Welcome Page
-### This is an example of a *Readme file* to introduce myself and to point potential employers towards **examples of *projects* I have worked on.**
+### This page will continue to be updated as I put more projects on.**
 <br/><br/>
 There will be lots of examples of code on here. <sup> *Imagine links to each repo*</sup>
 
@@ -13,21 +13,9 @@ There will be lots of examples of code on here. <sup> *Imagine links to each rep
 
 <br/><br/>
 
-I would definitely have [Links to my CoGrammar repository](https://github.com/Anthony-science/first_repo)
+Here is a link to some of the projects I have been working on [Links to my CoGrammar repository](https://github.com/Anthony-science/hyperiondev-all-proj)
 
 <br/><br/>
-**I would *also* include:**
+**Details:**
    
-   - contact information.
-   - link to bugtracker (if any)
-   - known issues (if any)
-   - instructions to build (if any)
-   - instructions to run (if applicable)
-   - instructions to run test suite(s) (if any)
-
-<br/><br/> To Do list:
-- [x] Make README file
-- [x] Link to a repo
-- [x] Suggest other content
-- [ ] Add some links to contact details
-- [ ] Add LinkedIn link
+   - email: <sciencemrjackson@gmail.com>
