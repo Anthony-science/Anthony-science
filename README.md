@@ -19,3 +19,4 @@ Here is a link to some of the projects I have been working on [Links to my CoGra
 **Details:**
    
    - email: <sciencemrjackson@gmail.com>
+   - LinkedIn: <https://www.linkedin.com/in/anthony-jackson-364087ab>
